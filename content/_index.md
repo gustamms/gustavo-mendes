@@ -1,15 +1,22 @@
 ---
-title: "Ahoy There!"
+title: "Gustavo Aqui!"
 draft: false
 ---
-Lowkey is a Clean and Simple Hugo theme inspired by [Adam Wathan's](https://adamwathan.me/) Website. Suitable for use as a personal blog, portofolio, etc. 
+# Sobre Mim
 
-This theme uses TailwindCSS, so it's easy to customize.
+Olá! Eu sou Gustavo Mendes, um entusiasta da tecnologia apaixonado por desenvolvimento de software e experiência do cliente. Venho aqui para compartilhar novos conhecimentos e espalhar a palavra do PHP por ai.
 
-If you are interested in using this theme, you can get it on [GitHub](#).
+## Formação
 
-**Example Description:**
+- Bacharelado em Engenharia de Software
+- Pós-graduação em Arquitetura de Sistemas Distribuídos
 
-Alex Lowkey is a professor of artificial intelligence at the Unknow AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## Certificações
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+- AWS Cloud Practitioner
+
+## Experiência Profissional
+
+Atualmente, estou concentrado em desenvolvimento de software no Picpay, onde tenho a chance de aplicar meus conhecimentos em engenharia de software e arquitetura de sistemas distribuídos para criar soluções inovadoras que visam aprimorar a experiência dos usuários.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. Se quiser entrar em contato ou saber mais sobre meu trabalho, não hesite em me enviar uma mensagem!
